@@ -1,4 +1,4 @@
-### &#128736; Стек:
+### &#128736; Stack:
 
 ![Go](https://img.shields.io/badge/go-%238DD6F9.svg?style=for-the-badge&logo=go&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C/C++-%23404d59.svg?style=for-the-badge)
@@ -11,7 +11,7 @@
 
 ---
 
-### &#129299; Статистика:
+### &#129299; Statistics:
 
 <!-- [![Codewarrior Profile Badges](https://www.codewars.com/users/Fokin07/badges/large)](https://www.codewars.com/users/Fokin07) -->
 <div>
