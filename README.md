@@ -4,6 +4,7 @@
 ![C/C++](https://img.shields.io/badge/C/C++-%23404d59.svg?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-%23007ACC.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-%23266999.svg?style=for-the-badge)
+![HTTP](https://img.shields.io/badge/HTTP-%23266999.svg?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2300758F.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%23007ACC.svg?style=for-the-badge&logo=docker&logoColor=white)
