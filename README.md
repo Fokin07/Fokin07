@@ -16,7 +16,6 @@
 
 ### &#129299; Statistics:
 
-<!-- [![Codewarrior Profile Badges](https://www.codewars.com/users/Fokin07/badges/large)](https://www.codewars.com/users/Fokin07) -->
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=Fokin07&hide=contribs&show_icons=true">
   <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=Fokin07&hide=contribs&show_icons=true" />
@@ -25,3 +24,5 @@
   <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fokin07&layout=compact" />
 </a>
 </div>
+
+![](https://komarev.com/ghpvc/?username=Fokin07)
