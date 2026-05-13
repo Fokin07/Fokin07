@@ -16,6 +16,9 @@
 
 ### &#129299; Statistics:
 ![](https://komarev.com/ghpvc/?username=Fokin07)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fokin07)](https://github.com/Fokin07/github-readme-stats)
+
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=Fokin07&hide=contribs&show_icons=true">
   <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=Fokin07&hide=contribs&show_icons=true" />
