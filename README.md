@@ -3,11 +3,11 @@
 <table align="center">
   <tr>
     <td align="center"><b>Core</b></td>
-    <td><img src="https://img.shields.io/badge/Go-1.22-blue?logo=go" /> <img src="https://img.shields.io/badge/C++-20-orange?logo=cplusplus" /> <img src="https://img.shields.io/badge/Linux-Kernel-red?logo=linux" /></td>
+    <td><img src="https://img.shields.io/badge/Go-blue?logo=go" /> <img src="https://img.shields.io/badge/C++-orange?logo=cplusplus" /> <img src="https://img.shields.io/badge/Linux-Kernel-red?logo=linux" /></td>
   </tr>
   <tr>
     <td align="center"><b>DB</b></td>
-    <td><img src="https://img.shields.io/badge/PostgreSQL-16-336791?logo=postgresql" /> <img src="https://img.shields.io/badge/SQLite-3-003B57?logo=sqlite" /></td>
+    <td><img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql" /> <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite" /></td>
   </tr>
   <tr>
     <td align="center"><b>DevOps</b></td>
