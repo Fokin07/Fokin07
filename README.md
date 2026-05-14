@@ -1,29 +1,34 @@
-### &#128736; Stack:
+## 🧩 Skills
 
-![Go](https://img.shields.io/badge/go-%238DD6F9.svg?style=for-the-badge&logo=go&logoColor=white)
-![C/C++](https://img.shields.io/badge/C/C++-%23404d59.svg?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-%23007ACC.svg?style=for-the-badge&logo=linux&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-%23266999.svg?style=for-the-badge)
-![HTTP](https://img.shields.io/badge/HTTP-%23266999.svg?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2300758F.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%23007ACC.svg?style=for-the-badge&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-%2343853D.svg?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%2320232a.svg?style=for-the-badge&logo=github&logoColor=%2361DAFB)
+<table align="center">
+  <tr>
+    <td align="center"><b>Core</b></td>
+    <td><img src="https://img.shields.io/badge/Go-1.22-blue?logo=go" /> <img src="https://img.shields.io/badge/C++-20-orange?logo=cplusplus" /> <img src="https://img.shields.io/badge/Linux-Kernel-red?logo=linux" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>DB</b></td>
+    <td><img src="https://img.shields.io/badge/PostgreSQL-16-336791?logo=postgresql" /> <img src="https://img.shields.io/badge/SQLite-3-003B57?logo=sqlite" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>DevOps</b></td>
+    <td><img src="https://img.shields.io/badge/Docker-blue?logo=docker" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Protocols</b></td>
+    <td><img src="https://img.shields.io/badge/REST-FF6C37?logo=postman" /> <img src="https://img.shields.io/badge/HTTP/2-005A9C" /></td>
+  </tr>
+</table>
 
 ---
 
-### &#129299; Statistics:
-![](https://komarev.com/ghpvc/?username=Fokin07)
+## 📈 Activity Dashboard
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fokin07)](https://github.com/Fokin07/github-readme-stats)
+<div align="center">
+  
+  | Indicator | Meaning |
+  |-----------|---------|
+  | 👥 profile views | ![](https://komarev.com/ghpvc/?username=Fokin07&style=flat-square&label=total) |
+  | ⭐ stars earned | ![GitHub User's stars](https://img.shields.io/github/stars/Fokin07?style=flat-square) |
+  | 🔥 contribution streak | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fokin07&theme=dark&hide_border=true) |
 
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=Fokin07&hide=contribs&show_icons=true">
-  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=Fokin07&hide=contribs&show_icons=true" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Fokin07&layout=compact">
-  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fokin07&layout=compact" />
-</a>
 </div>
